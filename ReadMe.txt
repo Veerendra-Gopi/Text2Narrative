@@ -1,6 +1,10 @@
-Install all required packages using 'pip install'
+This project won fifth place in an international hackathon (AI for Education Global HackWeek, 2017)
+link - https://medium.com/opened-ai/global-hackweek-winners-2017-a9e5da513270
 
-Powerpoint presentation about the project: Textbook to narrative film! Boring to interesting!
+Powerpoint presentation about the project: Textbook to narrative film! Boring to interesting! (in the folder)
+
+
+Install all required packages using 'pip install'
 
 Example:-
 
