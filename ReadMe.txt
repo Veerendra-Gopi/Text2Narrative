@@ -13,3 +13,5 @@ Example:-
 when prompted input: sample.pdf
 
 output: sample.mp4 in same folder as pdf_to_video.py
+
+youtube link to output sample.mp4 - https://www.youtube.com/watch?v=Bt68-wYua5k
